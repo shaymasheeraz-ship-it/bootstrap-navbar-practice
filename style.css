@@ -1,3 +1,39 @@
-.register{
+/* .register{
     background-color: ;
+} */
+*{
+    color: #4D4D4D;
+}
+.two{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+.lesson h1{
+    width: 457px;
+height: 106px;
+font-size: 44.55px;
+font-weight: 600px;
+line-height: 52.9px;
+}
+.lesson p{
+    width: 457px;
+height: 17px;
+font-size:11.14px;
+font-weight: 400px;
+line-height: 16.71px;
+}
+.eight{
+    color: #4CAF4F;
+}
+{
+    background-color: #4CAF4F;
+
+}
+.btnpar{
+    margin-top: 30px;
+}
+.btnpar button{
+    background-color: #4CAF4F; 
+    color: white;
 }
