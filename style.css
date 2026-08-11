@@ -43,6 +43,15 @@ h3{
     font-size: 9.74px;
 }
 footer{
-    background-color:#263238 ;
+    background-color:#263238;
     /* color: aliceblue; */
+}
+
+    
+.input{
+   background-color:#515B60 ;
+    
+}
+.input:hover{
+    background-color:#515B60 ;
 }
